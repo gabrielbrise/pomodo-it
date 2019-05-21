@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pomodo-it/precache-manifest.8cf3494fbca2577c860c6f3de7ba4249.js"
+  "/pomodo-it/precache-manifest.7638675c8359bccb2974243993880125.js"
 );
 
 self.addEventListener('message', (event) => {

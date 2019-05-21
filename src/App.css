@@ -15,7 +15,7 @@
  }
  
  .container {
-   margin: 0 20% 0 20%;
+   margin: 5% 20% 5% 20%;
  }
 
  .title {
@@ -29,7 +29,15 @@
 @media (min-width: 900px) {
 
   .container{
-    margin: 0 38% 0 38%;
+    margin: 2% 38% 2% 38%;
+  }
+  
+}
+
+@media (max-width: 450px) {
+
+  .container{
+    margin: 5% 5% 5% 5%;
   }
   
 }

@@ -16,7 +16,7 @@ class App extends Component {
       {id: 5, value:'Send e-mail', isCompleted: false},
     ],
     clock: {
-      minutes: 8, seconds: 7, isRunning: false
+      minutes: 25, seconds: 0, isRunning: false
     }
   }
   

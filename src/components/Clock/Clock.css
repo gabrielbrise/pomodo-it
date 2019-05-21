@@ -1,0 +1,31 @@
+.clock-input {
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    border: 0px;
+    font-size: 1em;
+    font-weight: 300;
+    margin: 0;
+    width: 1.2em;
+    color: white;
+    spacing: 0px;
+    padding: 0;
+    line-height: 1em;
+    background-color: #F56565;
+}
+
+.clock-input::selection {
+    background: #FFF;
+    color: #F56565;
+    text-shadow: none;
+}
+
+.clock {
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    flex: 4;
+    font-size: 4em;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+    line-height: 1em;
+}
